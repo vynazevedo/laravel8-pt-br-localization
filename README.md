@@ -1,6 +1,6 @@
 # Módulo de linguagem Português do Brasil (pt_BR) para Laravel 8
 
-[![CircleCI](https://circleci.com/gh/lucascudo/laravel-pt-BR-localization.svg?style=svg)](https://circleci.com/gh/lucascudo/laravel-pt-BR-localization) [![Total Downloads](https://poser.pugx.org/lucascudo/laravel-pt-br-localization/downloads)](https://packagist.org/packages/lucascudo/laravel-pt-br-localization) [![Latest Stable Version](https://poser.pugx.org/lucascudo/laravel-pt-br-localization/v/stable)](https://packagist.org/packages/lucascudo/laravel-pt-br-localization) [![License](https://poser.pugx.org/lucascudo/laravel-pt-br-localization/license)](https://packagist.org/packages/lucascudo/laravel-pt-br-localization)
+[![CircleCI](https://circleci.com/gh/vynazevedo/laravel-pt-BR-localization.svg?style=svg)](https://circleci.com/gh/vynazevedo/laravel-pt-BR-localization) [![Total Downloads](https://poser.pugx.org/vynazevedo/laravel-pt-br-localization/downloads)](https://packagist.org/packages/vynazevedo/laravel-pt-br-localization) [![Latest Stable Version](https://poser.pugx.org/vynazevedo/laravel-pt-br-localization/v/stable)](https://packagist.org/packages/vynazevedo/laravel-pt-br-localization) [![License](https://poser.pugx.org/vynazevedo/laravel-pt-br-localization/license)](https://packagist.org/packages/vynazevedo/laravel-pt-br-localization)
 
 ## Instalação
 
