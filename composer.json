@@ -1,0 +1,25 @@
+{
+    "name": "vynazevedo/laravel-pt-br-localization",
+    "description": "Arquivos de linguagem em Português do Brasil (pt-BR) para Laravel 8",
+    "license": "GPL-3.0-or-later",
+    "authors": [
+        {
+            "name": "Vinicius Azevedo",
+            "email": "lviniciusdiazevedo@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Vynazevedo\\LaravelPtBRLocalization\\": "src/"
+        }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Vynazevedo\\LaravelPtBRLocalization\\LaravelPtBRLocalizationServiceProvider"
+            ]
+        }
+    }
+}
