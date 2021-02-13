@@ -58,6 +58,10 @@
     "Ensure your account is using a long, random password to stay secure.": "Certifique-se de que sua conta está usando uma senha longa e aleatória para permanecer segura.",
     "Current Password": "Senha atual",
     "New Password": "Nova senha",
+    "Forgot your password?": "Esqueceu sua senha?",
+    "Remember me": "Lembrar-me",
+    "Forgot your password? No problem. Just let us know your email address and we will email you a password reset link that will allow you to choose a new one.": "Esqueceu sua senha? Sem problemas. Basta nos informar seu endereço de e-mail e nós enviaremos um link de redefinição de senha que permitirá que você escolha uma nova.",
+    "Email Password Reset Link": "Link de redefinição de senha de e-mail",
     "Manage Team": "Gerenciar Equipe",
     "Team Settings": "Configurações da equipe",
     "Create New Team": "Criar Nova Equipe",
@@ -89,5 +93,9 @@
     "Add Team Member": "Adicionar membro da equipe",
     "Add a new team member to your team, allowing them to collaborate with you.": "Adicione um novo membro da equipe à sua equipe, permitindo que eles colaborem com você.",
     "Please provide the email address of the person you would like to add to this team.": "Forneça o endereço de e-mail da pessoa que você gostaria de adicionar a esta equipe.",
-    "Role": "Função"
+    "Role": "Função",
+    "Administrator": "Administrador",
+    "Administrator users can perform any action.": "Os usuários administradores podem executar qualquer ação.",
+    "Editor": "Editor",
+    "Editor users have the ability to read, create, and update.": "Os usuários do editor podem ler, criar e atualizar."
 }
